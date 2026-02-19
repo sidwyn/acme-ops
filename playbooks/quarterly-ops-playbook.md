@@ -2,7 +2,7 @@
 
 ## Overview
 
-A recurring checklist to plan, execute, and review quarterly operations. Keep this updated.
+A recurring checklist to plan, execute, and review quarterly operations. Keep this updated periodically.
 
 ## Preparation (Weeks 1-2)
 
