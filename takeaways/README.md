@@ -1,6 +1,6 @@
 # Takeaways
 
-This folder is for reader contributions from the [Tool School: GitHub 101](link) article.
+This folder is for reader contributions from the Tool School: GitHub 101 article.
 
 ## How to Contribute
 

@@ -1,7 +1,7 @@
 # acme-ops
 
 ## What This Is
-Practice repo for the [Tool School: GitHub 101](link) article. Readers clone this repo to practice Git commands, explore how repositories work, and submit their first pull request.
+Practice repo for the Tool School: GitHub 101 article. Readers clone this repo to practice Git commands, explore how repositories work, and submit their first pull request.
 
 ## What's Here
 ├── acme/                    # Sarah's Acme operations folder (practice content)
