@@ -1,18 +1,24 @@
-# Claude Notes
+# acme-ops
 
-This file collects working notes for the acme-ops repository. Add short decisions, reminders, and open questions here so the team can track operational context over time.
+## What This Is
+Practice repo for the [Tool School: GitHub 101](link) article. Readers clone this repo to practice Git commands, explore how repositories work, and submit their first pull request.
 
-## Purpose
-- Capture key operational decisions and dates.
-- Track pending follow-ups and owners.
-- Keep a lightweight log of notable changes.
+## What's Here
+├── acme/                    # Sarah's Acme operations folder (practice content)
+│   ├── playbooks/           # Repeatable operational guides
+│   ├── procedures/          # Step-by-step policies and processes
+│   └── templates/           # Reusable document templates
+├── guides/                  # Learning resources
+│   ├── github-101.md        # The full GitHub 101 article (reference)
+│   └── CLAUDE.md            # GitHub help context
+├── takeaways/               # Reader contributions
+└── community-board.md       # Shared contribution file
 
-## Current Focus
-- Refresh quarterly playbooks.
-- Validate vendor coverage and renewals.
-- Confirm onboarding steps for new hires.
+## How to Contribute
+1. Fork this repo
+2. Create a branch
+3. Add your file to takeaways/ or edit community-board.md
+4. Open a PR back to this repo
 
-## Open Items
-- Schedule facilities walk-through.
-- Review expense policy for 2026.
-- Update template language for weekly updates.
+## GitHub Help
+When readers ask GitHub questions, reference `guides/github-101.md` for the full guide. For quick answers to common questions, see `guides/CLAUDE.md`.
