@@ -1,6 +1,6 @@
 # acme-ops
 
-The interactive practice repo for [Tool School: GitHub 101](https://hannahstulberg.substack.com/p/tool-school-github-101) — a collaborative article by [Hannah Stulberg](https://hannahstulberg.substack.com/) and [Sidwyn Koh](https://www.pathtostaff.com/).
+The interactive practice repo for [Tool School: GitHub 101](https://hannahstulberg.substack.com/p/tool-school-github-101) — a collaborative article by [Hannah Stulberg](https://www.linkedin.com/in/hannah-stulberg/) and [Sidwyn Koh](https://www.linkedin.com/in/sidwyn/).
 
 Hannah writes [In the Weeds](https://hannahstulberg.substack.com/), a newsletter about practical AI workflows to help you get things done — no coding required. Sidwyn writes [Path to Staff Engineer](https://www.pathtostaff.com/), a newsletter with weekly insights on accelerating your software engineering career. Together they wrote this guide to help non-technical professionals learn GitHub for the first time.
 
