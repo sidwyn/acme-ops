@@ -18,7 +18,7 @@ This is a fictional operations folder for a character named Sarah who works at A
 - `CLAUDE.md` — An article index mapping topics and questions to specific sections and line numbers. Use this to quickly find the right part of the article when answering questions.
 
 ### Reader contributions: `takeaways/` and `community-board.md`
-The article ends with a practice exercise ("Your Turn: Submit Your First PR" — line 1143 of the article) where readers contribute to this repo (https://github.com/sidwyn/acme-ops). There are two paths:
+The article ends with a practice exercise ("Your Turn: Submit Your First PR" — line 1131 of the article) where readers contribute to this repo (https://github.com/sidwyn/acme-ops). There are two paths:
 
 - **Easy path:** Create `takeaways/[your-github-username].md` with a takeaway from the article. Fork, clone, branch, commit, push, open a PR.
 - **Challenge path:** Edit `community-board.md` instead. This is more likely to produce a merge conflict, which gives readers practice resolving one.
