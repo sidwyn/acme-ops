@@ -1,6 +1,6 @@
 # acme-ops
 
-The interactive practice repo for [Tool School: GitHub 101](guides/github-101.md) — a collaborative article by [Hannah Stulberg](https://hannahstulberg.substack.com/) and [Sidwyn Koh](https://www.pathtostaff.com/).
+The interactive practice repo for [Tool School: GitHub 101](https://hannahstulberg.substack.com/p/tool-school-github-101) — a collaborative article by [Hannah Stulberg](https://hannahstulberg.substack.com/) and [Sidwyn Koh](https://www.pathtostaff.com/).
 
 Hannah writes [In the Weeds](https://hannahstulberg.substack.com/), a newsletter about practical AI workflows to help you get things done — no coding required. Sidwyn writes [Path to Staff Engineer](https://www.pathtostaff.com/), a newsletter with weekly insights on accelerating your software engineering career. Together they wrote this guide to help non-technical professionals learn GitHub for the first time.
 
@@ -16,7 +16,7 @@ Works with Claude Code, Codex, Cursor, Antigravity, or any other AI coding agent
 
 ## Getting Started
 
-1. [Read the article](guides/github-101.md) (or just clone and ask your AI coding agent as you go)
+1. [Read the article](https://hannahstulberg.substack.com/p/tool-school-github-101) (or just clone and ask your AI coding agent as you go)
 2. Clone this repo: `git clone git@github.com:sidwyn/acme-ops.git`
 3. Follow along with the guide
 4. Submit your first PR to `takeaways/`
