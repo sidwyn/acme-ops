@@ -5,3 +5,5 @@ Add your takeaway below! This is the "challenge path" from the GitHub 101 articl
 ---
 
 <!-- Add your takeaway below this line -->
+
+adamzeeee: GitHub is very cool and not scary at all!
