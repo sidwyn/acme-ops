@@ -5,3 +5,5 @@ Add your takeaway below! This is the "challenge path" from the GitHub 101 articl
 ---
 
 <!-- Add your takeaway below this line -->
+
+thefamilymanhq: learned process that engr typically take for github. takeaways - use branches for better organization and collaboration
