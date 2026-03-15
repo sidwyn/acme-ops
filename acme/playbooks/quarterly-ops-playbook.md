@@ -9,18 +9,23 @@ A recurring checklist to plan, execute, and review quarterly operations. Keep th
 - Review last quarter outcomes and action items.
 - Confirm budget status and upcoming renewals.
 - Validate staffing plans and onboarding needs.
+- Pull the current vendor list and flag contracts expiring this quarter.
+- Collect vendor performance data (SLAs, support tickets, spend vs. budget).
 
 ## Execution (Weeks 3-10)
 
 - Track recurring operational metrics.
 - Coordinate cross-team dependencies.
 - Escalate blockers and document resolutions.
+- Conduct vendor quarterly business reviews (use `vendor-eval-template.md` for new evaluations).
+- Initiate renewal or replacement process for expiring contracts.
 
 ## Review (Weeks 11-12)
 
 - Compile results and share summary.
 - Capture lessons learned and improvements.
 - Archive key documents and decisions.
+- Summarize vendor status: renewals completed, issues escalated, and any vendors flagged for replacement.
 
 ## Closeout & Carryover (Weeks 13–14)
 
