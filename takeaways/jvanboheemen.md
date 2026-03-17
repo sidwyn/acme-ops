@@ -1,0 +1,3 @@
+- Geleerd: een mix van advanced concepten én basics — zoals dat forken en clonen praktisch hetzelfde doen, alleen de context verschilt
+- Takeaway: GitHub is minder dev-only dan ik dacht — ook goed bruikbaar voor PMs en niet-technische rollen
+- Meer doen als PM: GitHub inzetten voor documentatie, samenwerking en AI-gestuurde workflows
