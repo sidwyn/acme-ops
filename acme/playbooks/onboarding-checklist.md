@@ -14,3 +14,8 @@
 - Schedule check-ins with manager.
 - Review role goals and success metrics.
 - Capture early feedback and questions.
+
+## 60-Day Follow-Up
+- Review progress against role goals.
+- Gather feedback from team and manager.
+- Identify any gaps in onboarding and address them.
