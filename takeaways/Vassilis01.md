@@ -1,0 +1,1 @@
+This was very helpful and reduced my fear factor. I will be using it to my manage collaboration for an academic article with the help of Codex rather than Claude!
