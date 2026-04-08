@@ -24,3 +24,5 @@ adamzeeee: GitHub is very cool and not scary at all!
 
 **MMoscosoCruz** — GitHub finally clicked for me after reading this guide. Learning the vocabulary, understanding branches and pull requests, and setting it all up with Claude Code made the whole thing feel approachable. Highly recommend this article to anyone starting out.
 - I learned about the git workflow and came up with an acronym for it 'Pizza Before Every Commit Prevent Poor Moods' — @Della05
+
+**jjaaeeone** - I learned the workflow: pull, branch, edit, commit, push, PR, merge 
