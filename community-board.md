@@ -24,3 +24,7 @@ adamzeeee: GitHub is very cool and not scary at all!
 
 **MMoscosoCruz** — GitHub finally clicked for me after reading this guide. Learning the vocabulary, understanding branches and pull requests, and setting it all up with Claude Code made the whole thing feel approachable. Highly recommend this article to anyone starting out.
 - I learned about the git workflow and came up with an acronym for it 'Pizza Before Every Commit Prevent Poor Moods' — @Della05
+
+**@JNY8630** — GitHub is analogous to SharePoint or Teams: we're all working with shared cloud-based files. The key difference is the workflow. In a regular office, everyone edits the same cloud file simultaneously, relying on version history to roll things back. In GitHub, you pull the file down locally, make your changes in isolation, push them back up, and then GitHub handles merging — something we do manually (or badly) in normal office work.
+
+What struck me is the discipline this creates: there's a clear main file, individuals go off and propose changes, request specific reviewers, and only merge once it's approved. That structured loop doesn't really exist in corporate tools today. I wonder if, as AI-native workflows become more common, more office workers will start adopting this GitHub-style pattern — because the conceptual leap isn't that big, and the benefit in clarity and structure is real.
