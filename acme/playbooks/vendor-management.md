@@ -14,3 +14,9 @@
 - Schedule quarterly business reviews.
 - Track performance metrics and SLAs.
 - Maintain a log of issues and resolutions.
+
+## Vendor Directory
+
+### Catering
+- **Mis-en-Bytes Catering**
+  - Phone: (555) 012-3456
