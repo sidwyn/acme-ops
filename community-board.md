@@ -24,3 +24,5 @@ adamzeeee: GitHub is very cool and not scary at all!
 
 **MMoscosoCruz** — GitHub finally clicked for me after reading this guide. Learning the vocabulary, understanding branches and pull requests, and setting it all up with Claude Code made the whole thing feel approachable. Highly recommend this article to anyone starting out.
 - I learned about the git workflow and came up with an acronym for it 'Pizza Before Every Commit Prevent Poor Moods' — @Della05
+
+**husker1022** — Understanding the pull, branch, edit, commit, push, PR, get approval, merge process and how it functions in git was incredibly helpful. I don't come from a coding background and this exercise and 101 Tool School guide really demystified how to setup Claude and use it with GitHub, even though I had already had a few aspects of my GitHub setup. Thank you!
