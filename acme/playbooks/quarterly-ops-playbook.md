@@ -22,6 +22,14 @@ A recurring checklist to plan, execute, and review quarterly operations. Keep th
 - Capture lessons learned and improvements.
 - Archive key documents and decisions.
 
+## Vendor Review (Weeks 3–10)
+
+- Audit active vendors: confirm contracts are current, renewal dates are tracked, and owners are assigned.
+- Review spend vs. budget for each vendor; flag overages or underutilized contracts for renegotiation.
+- Complete a health check on critical vendors: uptime, SLA compliance, support responsiveness.
+- Use `templates/vendor-eval-template.md` for any new vendor evaluations initiated this quarter.
+- Escalate any vendors at risk of non-renewal or underperformance to the ops lead before Week 8.
+
 ## Closeout & Carryover (Weeks 13–14)
 
 - Finalize carryover scope: confirm what rolls into next quarter vs. gets de-scoped.
