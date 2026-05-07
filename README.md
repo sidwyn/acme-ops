@@ -2,7 +2,7 @@
 
 The interactive practice repo for [Tool School: GitHub 101](https://hannahstulberg.substack.com/p/tool-school-github-101) — a collaborative article by [Hannah Stulberg](https://www.linkedin.com/in/hannah-stulberg/) and [Sidwyn Koh](https://www.linkedin.com/in/sidwyn/).
 
-Hannah writes [In the Weeds](https://hannahstulberg.substack.com/), a newsletter about practical AI workflows to help you get things done — no coding required. Sidwyn writes [Path to Staff Engineer](https://www.pathtostaff.com/), a newsletter with weekly insights on accelerating your software engineering career. Together they wrote this guide to help non-technical professionals learn GitHub for the first time.
+The great Hannah writes [In the Weeds](https://hannahstulberg.substack.com/), a newsletter about practical AI workflows to help you get things done — no coding required. Sidwyn writes [Path to Staff Engineer](https://www.pathtostaff.com/), a newsletter with weekly insights on accelerating your software engineering career. Together they wrote this guide to help non-technical professionals learn GitHub for the first time.
 
 Clone this repo and you get two things: an interactive lesson where you apply the concepts from the article, and the full article itself as a built-in reference guide. The repo is structured so that your AI coding agent acts as your instructor — when you get stuck, just ask. *"How do I open a pull request?"* It walks you through it using the guide you're already learning from.
 
