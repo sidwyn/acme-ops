@@ -4,6 +4,11 @@
 - Gather requirements and scope.
 - Collect security and compliance details.
 - Identify key stakeholders and approvers.
+- Collect vendor contact details:
+  - Primary contact name, title, and email.
+  - Support contact and escalation path.
+  - Billing contact name and email.
+  - Company address and main phone number.
 
 ## Evaluation
 - Compare pricing and service levels.
