@@ -45,3 +45,5 @@ adamzeeee: GitHub is very cool and not scary at all!
 What struck me is the discipline this creates: there's a clear main file, individuals go off and propose changes, request specific reviewers, and only merge once it's approved. That structured loop doesn't really exist in corporate tools today. I wonder if, as AI-native workflows become more common, more office workers will start adopting this GitHub-style pattern — because the conceptual leap isn't that big, and the benefit in clarity and structure is real.
 
 - **chandrikasriv**: I had never heard about the concept of "stashing" before, and I didn't realize one can easily switch to someone else's branch. That's very cool.
+
+**@amanpandey22** — As a PM, GitHub used to feel like a coder-only tool. The Google Drive framing — branches as suggestion mode, commits as save points, PRs as review cycles — completely shifted that. The same pull → branch → commit → push → PR → merge loop works just as well for PRDs, playbooks, and decision logs.
