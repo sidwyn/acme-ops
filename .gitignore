@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment variables (API keys, passwords)
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# Editor
+.vscode/
+.idea/
