@@ -1,0 +1,1 @@
+The idea that clicked for me is the Google Drive analogy. A commit is just a named save point, main is the version everyone trusts, and a branch is a safe copy where I can try a revision without touching the original. That maps almost exactly onto how I already think about drafts — I just never had a tool that made the history reliable and the merging automatic.
