@@ -1,8 +1,10 @@
 # Onboarding Checklist
 
+# I'm making changes to this file for git practice - MAL
+
+
 ## Before Day 1
 - Confirm signed offer and start date.
-- Provision accounts and equipment.
 - Prepare welcome packet and schedule.
 
 ## Week 1
