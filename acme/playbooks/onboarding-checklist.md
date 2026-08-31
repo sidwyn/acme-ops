@@ -14,3 +14,6 @@
 - Schedule check-ins with manager.
 - Review role goals and success metrics.
 - Capture early feedback and questions.
+
+## First 60 Days
+- This is a test edit for toolshcool github101

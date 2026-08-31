@@ -15,3 +15,8 @@
 - Status:
 - Notes:
 - Next Steps:
+
+## Notification Procedure
+- Messenger pigeon 
+- Smoke signals
+- Maybe email
