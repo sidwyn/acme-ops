@@ -1,0 +1,1 @@
+I wanted to learn github so I could feel more prepared for the way our world's changing. I hope to use the skills I learned in this article for both my professional and personal life. I feel a lot less intimidated by github than I used to be, so thank you for your help! Great guide.
